@@ -1,0 +1,12 @@
+services:
+  whitelist-ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8082:80"
+    container_name: whitelist-ui
+    restart: unless-stopped
+
+networks:
+  - endless-net
