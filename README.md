@@ -1,4 +1,10 @@
-# Minecraft 白名单申请系统
+# Minecraft 白名单申请系统 (已废弃)
+
+!!! WARNING
+此版本已废弃，请勿继续使用或部署。
+新版本请前往：
+https://github.com/pilgrimage233/whitelist-next
+
 
 ## 功能特性
 
